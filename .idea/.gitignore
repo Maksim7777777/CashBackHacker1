@@ -4,7 +4,7 @@
 Thumbs.db*
 .DS_Store
 HELP.md
-.gradle
+.gradle/
 build/
 
 ### STS ###
@@ -17,11 +17,12 @@ build/
 .sts4-cache
 
 ### IntelliJ IDEA ###
-.idea
+.idea/
 *.iws
 *.iml
 *.ipr
 out/
+
 
 ### NetBeans ###
 /nbproject/private/
